@@ -67,7 +67,7 @@ export function MainPage() {
         <section className="bg-gradient-to-r from-secondary to-primary py-20 text-primary-foregroundpy-12 md:py-24">
           <div className="container mx-auto px-4 md:px-6 grid md:grid-cols-2 gap-8 items-center">
             <div>
-              <h1 className="text-3xl font-bold mb-4">Domiciliation d'entreprise avec SERRUYS PLUS</h1>
+              <h1 className="text-3xl font-bold mb-4">Domiciliation d&apos;entreprise avec SERRUYS PLUS</h1>
               <p className="text-muted-foreground mb-6">
                 Faites confiance à notre expertise pour la domiciliation de votre entreprise. Nous vous accompagnons
                 dans toutes les démarches administratives.
