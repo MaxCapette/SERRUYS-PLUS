@@ -12,8 +12,8 @@ export function MainPage() {
       <header className="bg-primary/80 text-primary-foreground py-4 px-6 sticky top-0 z-50  backdrop-blur">
         <div className="container mx-auto flex items-center justify-between">
           <Link href="#" className="flex items-center gap-2" prefetch={false}>
-           <img src="/logo.png" width={50} height={50} alt="Serruys Plus" />
-            <span className="text-xl font-bold">SERRUYS PLUS</span>
+           <img src="/logo.png" width={50} height={50} alt="Serruys Services" />
+            <span className="text-xl font-bold">SERRUYS SERVICES</span>
           </Link>
           <nav className="hidden md:flex items-center gap-6">
             <Link href="#" className="hover:underline" prefetch={false}>
@@ -67,7 +67,7 @@ export function MainPage() {
         <section className="bg-gradient-to-r from-secondary to-primary py-20 text-primary-foregroundpy-12 md:py-24">
           <div className="container mx-auto px-4 md:px-6 grid md:grid-cols-2 gap-8 items-center">
             <div>
-              <h1 className="text-3xl font-bold mb-4">Domiciliation d&apos;entreprise avec SERRUYS PLUS</h1>
+              <h1 className="text-3xl font-bold mb-4">Domiciliation d&apos;entreprise avec SERRUYS SERVICES</h1>
               <p className="text-muted-foreground mb-6">
                 Faites confiance à notre expertise pour la domiciliation de votre entreprise. Nous vous accompagnons
                 dans toutes les démarches administratives.
@@ -76,7 +76,7 @@ export function MainPage() {
               <Button className="mb-4">Demander un devis</Button>
               </Link>
             </div>
-            <img src="/intro.jpeg" width={500} height={400} alt="Serruys Plus" className="rounded-lg" />
+            <img src="/intro.jpeg" width={500} height={400} alt="Serruys Services" className="rounded-lg" />
           </div>
         </section>
         <section id="services" className="py-12 md:py-24">
@@ -225,7 +225,7 @@ export function MainPage() {
               <Card>
                 <CardContent>
                   <blockquote className="text-lg font-semibold leading-snug pt-4">
-                    &ldquo;Serruys Plus m&apos;a permis de me concentrer sur le développement de mon entreprise sans me
+                    &ldquo;Serruys Services m&apos;a permis de me concentrer sur le développement de mon entreprise sans me
                     soucier des formalités administratives.&rdquo;
                   </blockquote>
                   <div className="mt-4 flex items-center">
@@ -243,7 +243,7 @@ export function MainPage() {
               <Card>
                 <CardContent>
                   <blockquote className="text-lg font-semibold leading-snug pt-4">
-                    &ldquo;Grâce à la domiciliation de mon entreprise chez Serruys Plus, j&apos;ai pu me concentrer sur mon
+                    &ldquo;Grâce à la domiciliation de mon entreprise chez Serruys Services, j&apos;ai pu me concentrer sur mon
                     cœur de métier.&rdquo;
                   </blockquote>
                   <div className="mt-4 flex items-center">
@@ -261,7 +261,7 @@ export function MainPage() {
               <Card>
                 <CardContent>
                   <blockquote className="text-lg font-semibold leading-snug pt-4">
-                    &ldquo;Serruys Plus m&apos;a offert une adresse professionnelle de qualité pour mon entreprise. Je
+                    &ldquo;Serruys Services m&apos;a offert une adresse professionnelle de qualité pour mon entreprise. Je
                     recommande vivement!&rdquo;
                   </blockquote>
                   <div className="mt-4 flex items-center">
@@ -297,7 +297,7 @@ export function MainPage() {
                   <div className="flex items-center gap-2">
                     <MailIcon className="h-5 w-5 text-primary" />
                     <a href="#" className="text-muted-foreground">
-                      contact@serruys-plus.fr
+                      contact@serruys-services.fr
                     </a>
                   </div>
                   <div className="flex items-center gap-2">
@@ -320,7 +320,7 @@ export function MainPage() {
       </main>
       <footer className="bg-primary text-primary-foreground py-6">
       <div className=" mx-auto px-4 md:px-6 flex flex-col md:flex-column items-center justify-between">
-          <p className="  mt-4 ">© 2024 SERRUYS PLUS.</p>
+          <p className="  mt-4 ">© 2024 SERRUYS SERVICES.</p>
           <p className="  "> Tous droits réservés.</p>
           </div>
          
