@@ -291,7 +291,7 @@ export function MainPage() {
                   <div className="flex items-center gap-2">
                     <PhoneIcon className="h-5 w-5 text-primary" />
                     <a href="#" className="text-muted-foreground">
-                      +33 1 23 45 67 89
+                    04 84 89 63 49
                     </a>
                   </div>
                   <div className="flex items-center gap-2">
