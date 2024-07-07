@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "SERRUYS PLUS",
-  description: "Bienvenue sur le site de SERRUYS PLUS",
+  title: "SERRUYS SERVICES",
+  description: "Bienvenue sur le site de SERRUYS SERVICES",
 };
 
 export default function RootLayout({
